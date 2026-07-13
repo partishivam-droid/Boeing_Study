@@ -35,7 +35,7 @@ Open Stata and run `Boeing.do`. The script will automatically:
 The study monitors a timeline of trade escalations and resolutions throughout 2025, tracking a window of -1 to +5 trading days around each announcement:
 * April 2, 2025: Liberation Day reciprocal tariffs.
 * April 9, 2025: Tariffs on Chinese goods raised to 145%.
-* April 15, 2025: China delivery ban & 125% retaliatory tariff.
-* May 15, 2025: Trade truce agreement (delivery ban lifted).
-* October 12, 2025: 100% rare earth tariffs & aviation parts threat.
-* October 27, 2025: Late-October Summit $37B Boeing-China order deal.
+* April 15, 2025: China orders Boeing delivery halt.
+* May 12, 2025: Geneva trade truce announced (Boeing delivery ban lifted).
+* October 10, 2025: Trump threatens 100% tariff after China rare earth export expansion.
+* October 30, 2025: Busan Summit — US-China tariff and rare earth truce.

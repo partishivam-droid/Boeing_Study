@@ -1,0 +1,31 @@
+Ticker,Firm,Event,Description,CAR,CAR_pct,T-Stat,Sig
+BA,Boeing,2025-04-02,Liberation Day reciprocal tariffs announced,-0.008667441535075454,-0.87%,-0.18,
+BA,Boeing,2025-04-09,Tariffs on Chinese goods raised to 145%,0.027536173114776838,2.75%,0.57,
+BA,Boeing,2025-04-15,China delivery ban & 125% retaliatory tariff,0.10161289720139412,10.16%,2.1,**
+BA,Boeing,2025-05-15,Trade truce: Ban lifted (Mid-May),-0.00888905686922587,-0.89%,-0.18,
+BA,Boeing,2025-10-12,Trump 100% rare earth tariff & BA parts threat,0.008414512902445626,0.84%,0.17,
+BA,Boeing,2025-10-27,Boeing-China $37B order deal at summit (Late Oct),-0.04180685620812889,-4.18%,-0.87,
+EADSY,Airbus,2025-04-02,Liberation Day reciprocal tariffs announced,-0.0697754167980717,-6.98%,-1.72,*
+EADSY,Airbus,2025-04-09,Tariffs on Chinese goods raised to 145%,0.017702883969159658,1.77%,0.44,
+EADSY,Airbus,2025-04-15,China delivery ban & 125% retaliatory tariff,0.0311023296358166,3.11%,0.77,
+EADSY,Airbus,2025-05-15,Trade truce: Ban lifted (Mid-May),0.0027551343964236333,0.28%,0.07,
+EADSY,Airbus,2025-10-12,Trump 100% rare earth tariff & BA parts threat,0.007685580221964507,0.77%,0.19,
+EADSY,Airbus,2025-10-27,Boeing-China $37B order deal at summit (Late Oct),0.020939212365021297,2.09%,0.52,
+GE,GE Aerospace,2025-04-02,Liberation Day reciprocal tariffs announced,-0.04580574050386657,-4.58%,-1.19,
+GE,GE Aerospace,2025-04-09,Tariffs on Chinese goods raised to 145%,-0.047387907042120106,-4.74%,-1.23,
+GE,GE Aerospace,2025-04-15,China delivery ban & 125% retaliatory tariff,0.04660555540972245,4.66%,1.21,
+GE,GE Aerospace,2025-05-15,Trade truce: Ban lifted (Mid-May),0.004541602163717571,0.45%,0.12,
+GE,GE Aerospace,2025-10-12,Trump 100% rare earth tariff & BA parts threat,0.03740373313174645,3.74%,0.97,
+GE,GE Aerospace,2025-10-27,Boeing-China $37B order deal at summit (Late Oct),0.002441335354241384,0.24%,0.06,
+HON,Honeywell,2025-04-02,Liberation Day reciprocal tariffs announced,-0.04893853189468802,-4.89%,-1.76,*
+HON,Honeywell,2025-04-09,Tariffs on Chinese goods raised to 145%,-0.009258490436464966,-0.93%,-0.33,
+HON,Honeywell,2025-04-15,China delivery ban & 125% retaliatory tariff,-0.010090404330821074,-1.01%,-0.36,
+HON,Honeywell,2025-05-15,Trade truce: Ban lifted (Mid-May),0.02035517672224601,2.04%,0.73,
+HON,Honeywell,2025-10-12,Trump 100% rare earth tariff & BA parts threat,-0.014527218317770348,-1.45%,-0.52,
+HON,Honeywell,2025-10-27,Boeing-China $37B order deal at summit (Late Oct),-0.04966159496144787,-4.97%,-1.78,*
+RTX,RTX (Collins Aerospace / Pratt & Whitney),2025-04-02,Liberation Day reciprocal tariffs announced,-0.020431134611980466,-2.04%,-0.88,
+RTX,RTX (Collins Aerospace / Pratt & Whitney),2025-04-09,Tariffs on Chinese goods raised to 145%,0.022169975481904435,2.22%,0.95,
+RTX,RTX (Collins Aerospace / Pratt & Whitney),2025-04-15,China delivery ban & 125% retaliatory tariff,-0.0693106608460545,-6.93%,-2.98,***
+RTX,RTX (Collins Aerospace / Pratt & Whitney),2025-05-15,Trade truce: Ban lifted (Mid-May),0.006043355937016074,0.60%,0.26,
+RTX,RTX (Collins Aerospace / Pratt & Whitney),2025-10-12,Trump 100% rare earth tariff & BA parts threat,-0.0399876901778521,-4.00%,-1.72,*
+RTX,RTX (Collins Aerospace / Pratt & Whitney),2025-10-27,Boeing-China $37B order deal at summit (Late Oct),-0.01731582937665522,-1.73%,-0.74,

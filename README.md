@@ -23,7 +23,6 @@ Boeing_Study/
 ├── volatility_analysis.py        # Pre-/post-event realized volatility ratios (Table 4)
 ├── out_of_sample_2026.py         # Out-of-sample extension for May 2026 order news (Table 5)
 ├── Boeing_V2.do                  # Primary Stata do-file: multivariate OLS + HC1 robust SEs
-├── Boeing.do                     # Legacy/reference Stata script (superseded by Boeing_V2.do)
 └── boeing_trade_war_study.png    # Output CAR trajectory line plot (Figure 1)
 ```
 

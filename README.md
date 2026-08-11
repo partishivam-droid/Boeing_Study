@@ -47,7 +47,7 @@ python out_of_sample_2026.py         # Table 5 out-of-sample extension
 
 ### Step 2: Stata Econometric Analysis
 
-Open Stata and run **`Boeing_V2.do`** — the current primary specification. (`Boeing.do` is kept only for reference and does not produce the regression numbers reported in the paper.) The script will:
+Open Stata and run **`Boeing_V2.do`** — the current primary specification. The script will:
 - Load `boeing_returns_data.csv` and `tsset` the daily time-series data.
 - Generate indicator (dummy) variables for each 7-trading-day event window ([-1,+5]).
 - Run the primary multivariate OLS regression with robust (HC1) standard errors.
@@ -84,16 +84,3 @@ The study tracks a [-1, +5] trading-day window around each announcement:
 - China Delivery Ban dummy: +0.0155/day (t = 2.39, p = 0.017) → aggregate window impact ≈ 7 × 1.55% = +10.85%
 - Joint significance test (all 6 event dummies): F(6, 493) = 1.14, p = 0.3363
 - R² = 0.4021, N = 501
-
-## Citation
-
-If you use this replication package or dataset in your research, please cite:
-
-```
-@article{parti2026boeing,
-  title={Geopolitical Shocks and Defense Equity Valuations: The Boeing–China Event Study},
-  author={Parti, Shivam},
-  journal={Georgetown University Academic Working Paper Series},
-  year={2026}
-}
-```

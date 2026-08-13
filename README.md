@@ -84,3 +84,5 @@ The study tracks a [-1, +5] trading-day window around each announcement:
 - China Delivery Ban dummy: +0.0155/day (t = 2.39, p = 0.017) → aggregate window impact ≈ 7 × 1.55% = +10.85%
 - Joint significance test (all 6 event dummies): F(6, 493) = 1.14, p = 0.3363
 - R² = 0.4021, N = 501
+
+Please note that the Python and Stata code used in this study is AI-assisted.
